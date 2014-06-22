@@ -22,7 +22,7 @@ Invoke the function run_analysis within the directory of the UCI HAR Dataset
 ```r
 source("path/to/run_analysis.R")
 run_analysis()
-```r
+```
 
 Wait for function to process the files and the resultant output files will be in the combined directory under the `/UCI HAR Dataset Directory`.
 
