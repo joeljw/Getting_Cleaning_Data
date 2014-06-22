@@ -2,6 +2,7 @@
 
 This repo contains project code for `Getting and Cleaning Data` course given by John Hopkins University on Coursera.
 ---
+
 This script contains a set of commands to process the UCI HAR Dataset which contains a set of accelerometer readings from a Samsung Galaxy 2 phone.
 
 The run_analysis function assumes you have a working directory set to the base of the UCI Dataset directory
