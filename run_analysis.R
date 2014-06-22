@@ -57,6 +57,6 @@ run_analysis = function () {
     dir.create("combined")
     setwd("./combined")
     write.csv(full.dataset, file="combined-samsung.csv", row.names=FALSE)
-    write.csv(tiny.set, file="mean-sd.csv", row.names=FALSE)
+    write.csv(tiny.set, file="tiny-dataset.csv", row.names=FALSE)
     tiny.set
 }
