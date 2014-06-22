@@ -19,5 +19,6 @@ The script does the following functions:
 
 Invoke the function run_analysis within the directory of the UCI HAR Dataset
 
-Wait for function to process the files and the resultant output files will be in the combined directory under the UCI HAR Dataset Directory.
+Wait for function to process the files and the resultant output files will be in the combined directory under the `/UCI HAR Dataset Directory`.
 
+See comments for any details about the steps within the processing of the files.
